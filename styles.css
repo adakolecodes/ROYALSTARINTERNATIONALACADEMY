@@ -1,0 +1,25 @@
+/* *{
+    margin: 0;
+} */
+
+.header{
+    background-image: url("images/header-img-opacity.jpg");
+    background-color: purple;
+    height: 100vh;
+    width: 100%;
+
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* .headerContent{
+    color: white;
+    margin-left: 10em;
+}
+
+.headerContent h1{
+    font-weight: 900;
+    font-size: 70px;
+} */
